@@ -1,0 +1,41 @@
+16  24
+0 1, color of the edge is 2
+1 2, color of the edge is 1
+2 3, color of the edge is 2
+3 4, color of the edge is 1
+4 5, color of the edge is 2
+5 6, color of the edge is 1
+6 7, color of the edge is 2
+7 8, color of the edge is 1
+8 9, color of the edge is 2
+9 10, color of the edge is 1
+10 11, color of the edge is 2
+11 12, color of the edge is 1
+12 13, color of the edge is 2
+13 14, color of the edge is 1
+14 15, color of the edge is 2
+2 2, color of the edge is 3
+5 5, color of the edge is 3
+10 10, color of the edge is 3
+4 5, color of the edge is 4
+2 3, color of the edge is 4
+10 11, color of the edge is 4
+1 14, color of the edge is 5
+3 12, color of the edge is 5
+6 9, color of the edge is 5
+0, color is 2
+1, color is 1
+2, color is 2
+3, color is 1
+4, color is 2
+5, color is 1
+6, color is 2
+7, color is 1
+8, color is 2
+9, color is 1
+10, color is 2
+11, color is 1
+12, color is 2
+13, color is 1
+14, color is 2
+15, color is 1

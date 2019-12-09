@@ -1,0 +1,35 @@
+14 20
+1 1 weight of the edge is 6
+2 3 weight of the edge is 5
+3 4 weight of the edge is 2
+3 5 weight of the edge is 7
+3 6 weight of the edge is 4
+4 7 weight of the edge is 6
+4 8 weight of the edge is 4
+5 1 weight of the edge is 6
+6 1 weight of the edge is 3
+7 9 weight of the edge is 4
+7 10 weight of the edge is 1
+8 1 weight of the edge is 4
+9 1 weight of the edge is 3
+10 11 weight of the edge is 4
+11 12 weight of the edge is 7
+11 13 weight of the edge is 3
+11 14 weight of the edge is 2
+12 1 weight of the edge is 4
+13 1 weight of the edge is 3
+14 1 weight of the edge is 1
+1 weight is 2
+2 weight is 3
+3 weight is 5
+4 weight is 3
+5 weight is 7
+6 weight is 2
+7 weight is 1
+8 weight is 2
+9 weight is 6
+10 weight is 3
+11 weight is 2
+12 weight is 3
+13 weight is 5
+14 weight is 7
